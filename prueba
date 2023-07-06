@@ -5,11 +5,12 @@
         <meta http-equiv='X-UA-Compatible' content='IE=edge'>
         <title>Page titulo </title> Prueba doc</Title>
         <meta name='viewport' content='width=device-width, initial-scale=1'>
-        <link rel='stylesheet' type='text/css' media='screen' href='main.css'
+        <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
         <script src='main.js'></script>
         </head>
         <body>
             <h1>Hola Paguina web nueva</h1>
+            <img src="/home/kalifafa/Downloads/BRICKCOM/guayaquil/guayaquil/Screenshot from 2023-07-05 11-33-25.png">
 
         </body>
         </html>
